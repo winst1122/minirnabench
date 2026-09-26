@@ -1,0 +1,322 @@
+[
+  {
+    "task_id": "forward_fold_001",
+    "submission": {
+      "sequence": "CCUGGUAUUGCAGUACCUCCAGGU",
+      "structure": "(((((.............))))).",
+      "mfe": -6.2,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_002",
+    "submission": {
+      "sequence": "AUGAGGAUUACCCAUG",
+      "structure": "(((.((....))))).",
+      "mfe": -1.7,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_003",
+    "submission": {
+      "sequence": "GAGGACCUAGAUCACCCCUC",
+      "structure": "((((............))))",
+      "mfe": -2.6,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_004",
+    "submission": {
+      "sequence": "GGGCCCGGUAAGUCUCUUCGGAGAUACUGCCGGGCCC",
+      "structure": "(((((((((.((((((....))))..)))))))))))",
+      "mfe": -26.7,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_005",
+    "submission": {
+      "sequence": "GGCACCUGACCCCAUGCCGAACUCAGAAGUGCCC",
+      "structure": "(((((((((...(.....)...))))..))))).",
+      "mfe": -9.0,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_006",
+    "submission": {
+      "sequence": "CGCUCCUCAGUACGAGAGGAACCGGAGCG",
+      "structure": "((((((......(....).....))))))",
+      "mfe": -7.9,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_007",
+    "submission": {
+      "sequence": "AGGAGAGAGAUGGGUGCGAG",
+      "structure": "....................",
+      "mfe": 0.0,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_008",
+    "submission": {
+      "sequence": "CAUACUUGAAACUGUAAGGUUGGCGUAUG",
+      "structure": "(((((....((((....))))...)))))",
+      "mfe": -4.8,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_009",
+    "submission": {
+      "sequence": "GGCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUC",
+      "structure": "(((((((((((..[[[.)))))))....((((.]]..]..)))))))).",
+      "mfe": -22.6,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_010",
+    "submission": {
+      "sequence": "ACCGUCAGAGGACACGGUU",
+      "structure": "(((((........))))).",
+      "mfe": -4.3,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_011",
+    "submission": {
+      "sequence": "GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA",
+      "structure": "((((((..(((.....[...))).(((((.......))))).....(((((..]....))))))))))).....",
+      "mfe": -27.3,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_012",
+    "submission": {
+      "sequence": "GGAACCGGUGCGCAUAACCACCUCAGUGCGAGCAA",
+      "structure": "......[[[.{((....((]]]...).).}.))..",
+      "mfe": -6.2,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_013",
+    "submission": {
+      "sequence": "UUUGCUGAGGUGCACACAGCAAU",
+      "structure": ".((((((.........)))))).",
+      "mfe": -5.6,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_014",
+    "submission": {
+      "sequence": "GGAACCGGUGCGCAUAACCACCUCAGUGCGAGCAA",
+      "structure": "......[[[.{((....((]]]...).).}.))..",
+      "mfe": -6.2,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_015",
+    "submission": {
+      "sequence": "CGGUCCCAGACGACC",
+      "structure": "((........)).))",
+      "mfe": -3.9,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_016",
+    "submission": {
+      "sequence": "GGCGUAUGUGAUCUUUCGUGUGGGUCACCACUGCGCC",
+      "structure": "((((((.(((((((.......)))))))...))))))",
+      "mfe": -16.2,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_017",
+    "submission": {
+      "sequence": "GGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGC",
+      "structure": ".(((((((((....(((....(((....)))....))).)))))))))",
+      "mfe": -16.5,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_018",
+    "submission": {
+      "sequence": "GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC",
+      "structure": "(((((.(((..(((.........)))..))).....(...((......)).).)))))",
+      "mfe": -18.7,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_019",
+    "submission": {
+      "sequence": "GCGGAUUUAACUCAGUuGGGAGAGCGC",
+      "structure": "(((((((...(((........)))...",
+      "mfe": -3.1,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "forward_fold_020",
+    "submission": {
+      "sequence": "CUCGUAUGGCGCAGUGGUAGCGCAGCAGAUUGCAAAUCUGUUGGUCCUUAGUUCGAUCCUGAGUGCGAG",
+      "structure": "((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))",
+      "mfe": -20.0,
+      "rationale": "Reference RNA sequence, structure, and reference MFE."
+    }
+  },
+  {
+    "task_id": "inverse_fold_001",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_002",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_003",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_004",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_005",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAU",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_006",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_007",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_008",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_009",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_010",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUG",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_011",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAU",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_012",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUG",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_013",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUG",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_014",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_015",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUG",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_016",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_017",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGC",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_018",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAU",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_019",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUG",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  },
+  {
+    "task_id": "inverse_fold_020",
+    "submission": {
+      "sequence": "AUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCAUGCA",
+      "rationale": "Reconstructed reference placeholder; original inverse-fold gold sequence was not recoverable."
+    }
+  }
+]
